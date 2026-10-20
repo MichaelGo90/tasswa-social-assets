@@ -8,3 +8,4 @@
 2026-10-11 | https://www.tasswa.com.sa/insights/riyadh-residential-sector
 2026-10-13 | https://www.tasswa.com.sa/insights/saudi-logistics-sector
 2026-10-18 | https://www.tasswa.com.sa/insights/saudi-grocery-sector
+2026-10-20 | https://www.tasswa.com.sa/insights/saudi-construction-sector
