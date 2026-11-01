@@ -10,3 +10,4 @@
 2026-10-18 | https://www.tasswa.com.sa/insights/saudi-grocery-sector
 2026-10-20 | https://www.tasswa.com.sa/insights/saudi-construction-sector
 2026-10-25 | https://www.tasswa.com.sa/insights/emaar-case-study
+2026-11-01 | https://www.tasswa.com.sa/insights/saudi-spending
