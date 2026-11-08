@@ -12,3 +12,4 @@
 2026-10-25 | https://www.tasswa.com.sa/insights/emaar-case-study
 2026-11-01 | https://www.tasswa.com.sa/insights/saudi-spending
 2026-11-03 | https://www.tasswa.com.sa/insights/starbucks-case-study
+2026-11-08 | https://www.tasswa.com.sa/insights/riyadh-residential-sector
