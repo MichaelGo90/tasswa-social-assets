@@ -15,3 +15,4 @@
 2026-11-08 | https://www.tasswa.com.sa/insights/riyadh-residential-sector
 2026-11-10 | https://www.tasswa.com.sa/insights/emaar-case-study
 2026-11-15 | https://www.tasswa.com.sa/insights/riyadh-office-sector
+2026-11-15 | https://www.tasswa.com.sa/insights/avenues-riyadh-profile
